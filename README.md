@@ -18,7 +18,12 @@ Each round adds a new color to the sequence — how far can you go?
 
 ## 📸 Demo
 
-![Simon Says Game Demo](./assets/simon.gif)  
+## 📸 Demo
+
+<p align="center">
+  <img src="./assets/simon.gif" height="300" />
+</p>
+  
 
 ---
 
