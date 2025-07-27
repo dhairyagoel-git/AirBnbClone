@@ -15,4 +15,15 @@ if(!newListing.description){
     if(!newListing.location){
         throw new ExpressError(400,'location is missing');
     } instead of using multiple if statements like this we use joi   
-# Mongo relationships
+# database relationships
+## SQL relations - 
+### one to one
+one data is only related to one other data. 
+### one to many 
+one data in table 1 is related to multiple data in table 2. eg. in instagram one post is related to one user only . but a single user can be related to multiple posts.
+### many to many 
+
+
+## Mongo relations
+
+### one to few
